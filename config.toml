@@ -3,7 +3,6 @@ title = "Something Poetical Private"
 baseURL = "https://m16Takahiro.github.io"
 theme = "beautifulhugo"
 disqusShortname = "something-poetical-private"
-
 [Author]
   subtitle = "詩的で私的な、物語への感想を書いています。"
   name = "515 Hikaru"
