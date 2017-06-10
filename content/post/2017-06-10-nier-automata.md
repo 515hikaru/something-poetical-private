@@ -1,7 +1,7 @@
 +++
 date = "2017-05-21T15:38:09+09:00"
 tags = ["games"]
-title = "NieR:Automata - 2017年のゲーム体験"
+title = "NieR:Automata - 失われることで完成する物語"
 +++
 
 今日はゲームの話。
