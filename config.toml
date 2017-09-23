@@ -1,6 +1,6 @@
 languageCode = "ja"
 title = "Something Poetical Private"
-baseURL = "https://m16Takahiro.github.io"
+baseURL = "https://poem.515hikaru.net"
 theme = "beautifulhugo"
 disqusShortname = "something-poetical-private"
 [Author]
@@ -22,5 +22,5 @@ disqusShortname = "something-poetical-private"
 
 [[menu.main]]
     name = "Other Blog"
-    url = "http://hikaru515.hatenablog.com/"
+    url = "http://blog.515hikaru.net"
     weight = 1
